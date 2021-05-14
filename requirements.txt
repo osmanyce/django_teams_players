@@ -1,0 +1,6 @@
+# Web framework
+Django~=3.2.3
+# DRF
+djangorestframework==3.12.4
+# Code coverage
+coverage~=5.3.1

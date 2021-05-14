@@ -1,0 +1,129 @@
+[
+  {
+    "model": "tournament.Team",
+    "fields": {
+      "id": 1,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Team 1",
+      "city": "City 1"
+    }
+  },
+  {
+    "model": "tournament.Team",
+    "fields": {
+      "id": 2,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Team 2",
+      "city": "City 1"
+    }
+  },
+  {
+    "model": "tournament.Team",
+    "fields": {
+      "id": 3,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Team 3",
+      "city": "City 1"
+    }
+  },
+  {
+    "model": "tournament.Team",
+    "fields": {
+      "id": 4,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Team 4",
+      "city": "City 2"
+    }
+  },
+  {
+    "model": "tournament.Team",
+    "fields": {
+      "id": 5,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Team 5",
+      "city": "City 3"
+    }
+  },
+  {
+    "model": "tournament.Player",
+    "fields": {
+      "id": 1,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Player 1",
+      "goals": 2,
+      "team_id": 1
+    }
+  },
+  {
+    "model": "tournament.Player",
+    "fields": {
+      "id": 2,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Player 2",
+      "goals": 0,
+      "team_id": 1
+    }
+  },
+  {
+    "model": "tournament.Player",
+    "fields": {
+      "id": 3,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Player 3",
+      "goals": 1,
+      "team_id": 1
+    }
+  },
+  {
+    "model": "tournament.Player",
+    "fields": {
+      "id": 4,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Player 4",
+      "goals": 2,
+      "team_id": 2
+    }
+  },
+  {
+    "model": "tournament.Player",
+    "fields": {
+      "id": 5,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Player 5",
+      "goals": 0,
+      "team_id": 3
+    }
+  },
+  {
+    "model": "tournament.Player",
+    "fields": {
+      "id": 6,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Player 6",
+      "goals": 0,
+      "team_id": 4
+    }
+  },
+  {
+    "model": "tournament.Player",
+    "fields": {
+      "id": 7,
+      "created_at": "2021-05-13 00:19:56.514849",
+      "updated_at": "2021-05-13 00:19:56.514849",
+      "name": "Player 7",
+      "goals": 5,
+      "team_id": 4
+    }
+  }
+]
